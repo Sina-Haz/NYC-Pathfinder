@@ -1,6 +1,6 @@
-all: sixth
+all: path
 
-sixth:sixth.c
-	gcc -g -Wall -Werror -fsanitize=address sixth.c -o sixth
+path:path.c
+	gcc -g -Wall -Werror -fsanitize=address path.c -o path
 clean:
-	rm sixth
+	rm path
