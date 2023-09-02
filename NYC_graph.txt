@@ -1,0 +1,46 @@
+10
+34th_Street_Herald_Square
+Union_Square
+Grand_Central
+Times_Square
+59th_Street_Columbus_Circle
+Jay_St-MetroTech
+Atlantic_Ave
+Washington_Square_Park
+Chrysler_Building
+Central_Park
+34th_Street_Herald_Square Union_Square 5
+34th_Street_Herald_Square Grand_Central 8
+34th_Street_Herald_Square Times_Square 12
+34th_Street_Herald_Square 59th_Street_Columbus_Circle 20
+34th_Street_Herald_Square Jay_St-MetroTech 25
+34th_Street_Herald_Square Atlantic_Ave 30
+34th_Street_Herald_Square Washington_Square_Park 15
+34th_Street_Herald_Square Chrysler_Building 10
+34th_Street_Herald_Square Central_Park 25
+Union_Square Grand_Central 6
+Union_Square Times_Square 10
+Union_Square 59th_Street_Columbus_Circle 15
+Union_Square Jay_St-MetroTech 20
+Union_Square Atlantic_Ave 25
+Union_Square Washington_Square_Park 5
+Union_Square Chrysler_Building 8
+Union_Square Central_Park 20
+Grand_Central Times_Square 5
+Grand_Central 59th_Street_Columbus_Circle 10
+Grand_Central Jay_St-MetroTech 15
+Grand_Central Atlantic_Ave 20
+Grand_Central Washington_Square_Park 15
+Grand_Central Chrysler_Building 5
+Grand_Central Central_Park 15
+Grand_Central 34th_Street_Herald_Square 8
+Grand_Central Union_Square 6
+Times_Square 59th_Street_Columbus_Circle 10
+Times_Square Jay_St-MetroTech 15
+Times_Square Atlantic_Ave 20
+Times_Square Washington_Square_Park 10
+Times_Square Chrysler_Building 6
+Times_Square Central_Park 12
+Times_Square 34th_Street_Herald_Square 12
+Times_Square Union_Square 10
+Times_Square Grand_Central 5
