@@ -6,7 +6,7 @@ _I/O format_:
  - Program takes in two command-line inputs. The first being a weighted graph in the format:
 
 <num_vertices>  
-vertex A 
+vertex A  
 vertex B  
 ...  
 vertex A vertex B <edge_weight>  
