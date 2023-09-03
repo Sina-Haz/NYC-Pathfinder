@@ -6,10 +6,10 @@ _I/O format_:
  - Program takes in two command-line inputs. The first being a weighted graph in the format:
 
 <num_vertices>  
-vertex_a  
-vertex_b  
+vertex A 
+vertex B 
 ...  
-vertex_a vertex_b <edge_weight>  
+vertex A vertex B <edge_weight>  
 ...  
 
  - After internally constructing graph using first file the program will take in the next file which should be shortest path queries where each line contains a single source vertex from which we want to run the algorithm on.
