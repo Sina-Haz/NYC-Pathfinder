@@ -7,7 +7,7 @@ _I/O format_:
 
 <num_vertices>  
 vertex A 
-vertex B 
+vertex B  
 ...  
 vertex A vertex B <edge_weight>  
 ...  
